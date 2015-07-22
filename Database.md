@@ -1,0 +1,1 @@
+We are using Oracle 10g Database to store user details, passwords and queries.

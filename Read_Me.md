@@ -1,0 +1,1 @@
+This is a web service to run this you require a web server like Apache Tomcat Or Web-spear etc. You require a database
